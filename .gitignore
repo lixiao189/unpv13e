@@ -5,3 +5,6 @@ config.log
 config.status
 *.o
 *.a
+
+.cache
+compile_commands.json
